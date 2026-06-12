@@ -6,9 +6,13 @@ Sistem manajemen tekstil berbasis web dengan fitur e-commerce dan dashboard stat
 ## Anggota Kelompok & Peran
 Kelas 2B 
 1. Monix Denar Adistiyono (2043251011)
+   - Visual & tata letak dashboard.php, desain tabel produk, ikon interaktif, standardisasi warna, CSS, Bootstrap
 2. Ketzia Gracie Margaretha (2043251013) - Ketua
+   - beli.php, riwayat.php, pesanan_masuk.php, tracking pengiriman, edit produk supplier, integrasi ke database, statistik per provinsi, upload gambar, color picker,
 3. M Refaro Hafid (2043251037)
+   - login.php, register.php, auth.php, role management, dashboard dinamis, filter produk, statistik per provinsi, validasi input
 4. Nafisha Zalfa (2043251053)
+   - tambah.php, edit.php, hapus.php,  manajemen stok
 
 ## Fitur Utama
 
@@ -68,8 +72,6 @@ Kelas 2B
 ### 6. Statistik Penjualan per Provinsi
 - Menampilkan produk terlaris di setiap provinsi
 - Informasi: nama produk, jenis kain, total terjual
-- Card dengan warna berbeda tiap provinsi
-- Animasi hover effect
 
 ### 7. Filter Pencarian Produk Lengkap
 | Filter | Keterangan |
