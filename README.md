@@ -42,10 +42,10 @@ Kelas 2B
 ### 4. Tracking Pengiriman
 - **5 Status Pengiriman**: `pending` → `dikemas` → `dikirim` → `selesai` → `batal`
 - Otomatis membuat record pengiriman saat pembelian
-- Supplier bisa update status & input nomor resi
+- Supplier bisa update status
 - Modal popup untuk update status
 - Notifikasi badge untuk pesanan pending
-- Pembeli bisa lihat status & resi di riwayat belanja
+- Pembeli bisa lihat status di riwayat belanja
 
 ### 5. Dashboard Statistik
 
